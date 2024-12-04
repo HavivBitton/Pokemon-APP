@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "pokemonSolid";
+  src: url("../../fonts/PokemonSolid.ttf");
+}
+@font-face {
+  font-family: "pokemonHollow";
+  src: url("../../fonts/PokemonHollow.ttf");
+}
+.pokadexHeader {
+  display: flex;
+  align-items: center;
+}
+.pokemonListDiv {
+  display: flex;
+  flex-wrap: wrap;
+}
+.pokadexTitle {
+  font-family: "pokemonSolid";
+  color: black;
+  font-size: 15px;
+  text-align: left;
+}
+.pokadexTitle h1 {
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.loadBtnContainer {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.LoadMoreBtn {
+  color: white;
+  font-family: "pokemonSolid";
+  font-size: 25px;
+}
+.boxContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

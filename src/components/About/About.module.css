@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "pokemonSolid";
+  src: url("../../fonts/PokemonSolid.ttf");
+}
+.Header {
+  display: flex;
+  align-items: center;
+}
+.title {
+  color: black;
+  font-family: pokemonSolid;
+}
+.text {
+  color: black;
+  font-size: 12px;
+}
+.imgDiv {
+  width: 100%;
+}
+.img {
+  width: 15rem;
+}

@@ -1,0 +1,6 @@
+.aboutState {
+  display: flex;
+  justify-content: center;
+  margin-block: 15px;
+  font-size: 30px;
+}

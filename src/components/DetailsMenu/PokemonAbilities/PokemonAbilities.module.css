@@ -1,0 +1,12 @@
+.abilitiesUl {
+  margin-block: 15px;
+  font-size: 30px;
+}
+.abilitiesLi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  padding-left: 10px;
+}
